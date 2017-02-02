@@ -1,0 +1,35 @@
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\bin\Debug\Stockapp.exe.config
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\bin\Debug\Stockapp.exe
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\bin\Debug\Stockapp.pdb
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.Container.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByPrice2.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByPrice3.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.BuyOrder.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.SellOrder.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.StockSum.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByOrder1.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByOrder2.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByOrder3.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByPrice1.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.Properties.Resources.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stockapp.csproj.GenerateResource.Cache
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stockapp.exe
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stockapp.pdb
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\bin\Debug\Stockapp.exe.config
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stockapp.exe
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stockapp.pdb
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\bin\Debug\Stockapp.exe
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\bin\Debug\Stockapp.pdb
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stockapp.csprojResolveAssemblyReference.cache
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.Container.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.MarketByPrice2.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.MarketByPrice3.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.BuyOrder.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.SellOrder.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.StockSum.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.MarketByOrder1.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.MarketByOrder2.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.MarketByOrder3.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.MarketByPrice1.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stock_app.Properties.Resources.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Stockapp\obj\Debug\Stockapp.csproj.GenerateResource.Cache

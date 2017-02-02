@@ -1,0 +1,53 @@
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\bin\Debug\Assignement 2 Ouda.exe.config
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\bin\Debug\Assignement 2 Ouda.exe
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\bin\Debug\Assignement 2 Ouda.pdb
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.Properties.Resources.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.csproj.GenerateResource.Cache
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.exe
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.pdb
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.StockSum.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.Container.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByPrice2.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByPrice3.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.BuyOrder.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.SellOrder.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByOrder1.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByOrder2.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByOrder3.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByPrice1.resources
+C:\Users\Troy\Documents\Visual Studio 2013\Projects\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.csprojResolveAssemblyReference.cache
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\bin\Debug\Assignement 2 Ouda.exe.config
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.exe
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.pdb
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\bin\Debug\Assignement 2 Ouda.exe
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\bin\Debug\Assignement 2 Ouda.pdb
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.csprojResolveAssemblyReference.cache
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.Container.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByPrice2.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByPrice3.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.BuyOrder.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.SellOrder.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.StockSum.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByOrder1.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByOrder2.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByOrder3.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.MarketByPrice1.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement_2_Ouda.Properties.Resources.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Assignement 2 Ouda\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.csproj.GenerateResource.Cache
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Assignement 2 Ouda.csproj.GenerateResource.Cache
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\bin\Debug\Stockapp.exe.config
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.Properties.Resources.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.StockSum.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\bin\Debug\Stockapp.exe
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\bin\Debug\Stockapp.pdb
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.Container.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByPrice2.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByPrice3.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.BuyOrder.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.SellOrder.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByOrder1.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByOrder2.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByOrder3.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stock_app.MarketByPrice1.resources
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stockapp.exe
+C:\Users\Main\Documents\Projects\Assignement+2+Ouda\Test-Stock\Assignement 2 Ouda\obj\Debug\Stockapp.pdb

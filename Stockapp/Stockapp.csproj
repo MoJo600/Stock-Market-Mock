@@ -1,0 +1,185 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="12.0" DefaultTargets="Build" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <Import Project="$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props" Condition="Exists('$(MSBuildExtensionsPath)\$(MSBuildToolsVersion)\Microsoft.Common.props')" />
+  <PropertyGroup>
+    <Configuration Condition=" '$(Configuration)' == '' ">Debug</Configuration>
+    <Platform Condition=" '$(Platform)' == '' ">AnyCPU</Platform>
+    <ProjectGuid>{92EDEB71-F485-48B4-BF96-1E9EC04D1209}</ProjectGuid>
+    <OutputType>WinExe</OutputType>
+    <AppDesignerFolder>Properties</AppDesignerFolder>
+    <RootNamespace>Stock_app</RootNamespace>
+    <AssemblyName>Stockapp</AssemblyName>
+    <TargetFrameworkVersion>v4.5</TargetFrameworkVersion>
+    <FileAlignment>512</FileAlignment>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Debug|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugSymbols>true</DebugSymbols>
+    <DebugType>full</DebugType>
+    <Optimize>false</Optimize>
+    <OutputPath>bin\Debug\</OutputPath>
+    <DefineConstants>DEBUG;TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|AnyCPU' ">
+    <PlatformTarget>AnyCPU</PlatformTarget>
+    <DebugType>pdbonly</DebugType>
+    <Optimize>true</Optimize>
+    <OutputPath>bin\Release\</OutputPath>
+    <DefineConstants>TRACE</DefineConstants>
+    <ErrorReport>prompt</ErrorReport>
+    <WarningLevel>4</WarningLevel>
+  </PropertyGroup>
+  <ItemGroup>
+    <Reference Include="System" />
+    <Reference Include="System.Core" />
+    <Reference Include="System.Xml.Linq" />
+    <Reference Include="System.Data.DataSetExtensions" />
+    <Reference Include="Microsoft.CSharp" />
+    <Reference Include="System.Data" />
+    <Reference Include="System.Deployment" />
+    <Reference Include="System.Drawing" />
+    <Reference Include="System.Windows.Forms" />
+    <Reference Include="System.Xml" />
+  </ItemGroup>
+  <ItemGroup>
+    <Compile Include="company.cs" />
+    <Compile Include="MarketByPrice2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarketByPrice2.Designer.cs">
+      <DependentUpon>MarketByPrice2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarketByPrice3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarketByPrice3.Designer.cs">
+      <DependentUpon>MarketByPrice3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Order.cs" />
+    <Compile Include="RealtimeData.cs" />
+    <Compile Include="StockMarketDisplay.cs" />
+    <Compile Include="Container.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="Container.Designer.cs">
+      <DependentUpon>Container.cs</DependentUpon>
+    </Compile>
+    <Compile Include="BuyOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="BuyOrder.Designer.cs">
+      <DependentUpon>BuyOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="SellOrder.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="SellOrder.Designer.cs">
+      <DependentUpon>SellOrder.cs</DependentUpon>
+    </Compile>
+    <Compile Include="StockMarket.cs" />
+    <Compile Include="StockSum.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="StockSum.Designer.cs">
+      <DependentUpon>StockSum.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarketByOrder1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarketByOrder1.Designer.cs">
+      <DependentUpon>MarketByOrder1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarketByOrder2.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarketByOrder2.Designer.cs">
+      <DependentUpon>MarketByOrder2.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarketByOrder3.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarketByOrder3.Designer.cs">
+      <DependentUpon>MarketByOrder3.cs</DependentUpon>
+    </Compile>
+    <Compile Include="MarketByPrice1.cs">
+      <SubType>Form</SubType>
+    </Compile>
+    <Compile Include="MarketByPrice1.Designer.cs">
+      <DependentUpon>MarketByPrice1.cs</DependentUpon>
+    </Compile>
+    <Compile Include="Program.cs" />
+    <Compile Include="Properties\AssemblyInfo.cs" />
+    <EmbeddedResource Include="Container.resx">
+      <DependentUpon>Container.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarketByPrice2.resx">
+      <DependentUpon>MarketByPrice2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarketByPrice3.resx">
+      <DependentUpon>MarketByPrice3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="BuyOrder.resx">
+      <DependentUpon>BuyOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="SellOrder.resx">
+      <DependentUpon>SellOrder.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="StockSum.resx">
+      <DependentUpon>StockSum.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarketByOrder1.resx">
+      <DependentUpon>MarketByOrder1.cs</DependentUpon>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarketByOrder2.resx">
+      <DependentUpon>MarketByOrder2.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarketByOrder3.resx">
+      <DependentUpon>MarketByOrder3.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="MarketByPrice1.resx">
+      <DependentUpon>MarketByPrice1.cs</DependentUpon>
+    </EmbeddedResource>
+    <EmbeddedResource Include="Properties\Resources.resx">
+      <Generator>ResXFileCodeGenerator</Generator>
+      <LastGenOutput>Resources.Designer.cs</LastGenOutput>
+      <SubType>Designer</SubType>
+    </EmbeddedResource>
+    <Compile Include="Properties\Resources.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Resources.resx</DependentUpon>
+      <DesignTime>True</DesignTime>
+    </Compile>
+    <None Include="Properties\Settings.settings">
+      <Generator>SettingsSingleFileGenerator</Generator>
+      <LastGenOutput>Settings.Designer.cs</LastGenOutput>
+    </None>
+    <Compile Include="Properties\Settings.Designer.cs">
+      <AutoGen>True</AutoGen>
+      <DependentUpon>Settings.settings</DependentUpon>
+      <DesignTimeSharedInput>True</DesignTimeSharedInput>
+    </Compile>
+  </ItemGroup>
+  <ItemGroup>
+    <None Include="App.config" />
+  </ItemGroup>
+  <ItemGroup>
+    <Content Include="Properties\down.bmp" />
+    <Content Include="noChange.bmp" />
+    <None Include="Resources\down.bmp" />
+    <None Include="Resources\noChange.bmp" />
+    <None Include="Resources\up.bmp" />
+    <Content Include="up.bmp" />
+  </ItemGroup>
+  <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
+  <!-- To modify your build process, add your task inside one of the targets below and uncomment it. 
+       Other similar extension points exist, see Microsoft.Common.targets.
+  <Target Name="BeforeBuild">
+  </Target>
+  <Target Name="AfterBuild">
+  </Target>
+  -->
+</Project>
